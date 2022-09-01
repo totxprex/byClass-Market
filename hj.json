@@ -1,0 +1,985 @@
+[
+  {
+    "userProducts": [
+      {
+        "productName": "Sk Gown",
+        "price": 40000,
+        "rating": 5,
+        "shortDescription": "For an absolutely romantic and calm evenings!",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tkk.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297"
+      },
+      {
+        "productName": "Yellow Suit",
+        "price": 20000,
+        "rating": 4,
+        "shortDescription": "Photo shoot with Montana Yao at the Korean Friendship Bell for Girls Tour",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tk.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=420&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297"
+      },
+      {
+        "productName": "Jean",
+        "price": 2000,
+        "rating": 1,
+        "shortDescription": "Read more: https://shinyhoney.com/blog-outfits-classic-jeans.html",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still.\n          ",
+        "externalStoreName": "Txprex",
+        "website": "verticalglobaltech.com",
+        "tags": [
+          "fashion",
+          "jean",
+          "female",
+          "sexy"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297"
+      }
+    ],
+    "savedProducts": [
+      {
+        "rating": 2,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "_id": "62df2daf4ff6e92eec195b7b",
+        "productName": "Gemarn Wears",
+        "price": 2000,
+        "shortDescription": "Corfu is absolutely romantic and calm in the evenings",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Jullz Wears",
+        "website": "jullz.com",
+        "productImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 4,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "_id": "62df1e21ecfca51cdce0cab7",
+        "productName": "Yellow Suit",
+        "price": 20000,
+        "shortDescription": "Photo shoot with Montana Yao at the Korean Friendship Bell for Girls Tour",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tk.com",
+        "productImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=420&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "_id": "62df1d01ecfca51cdce0caab",
+        "productName": "Sk Gown",
+        "price": 40000,
+        "shortDescription": "For an absolutely romantic and calm evenings!",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tkk.com",
+        "productImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 1,
+        "tags": [
+          "fashion",
+          "jean",
+          "female",
+          "sexy"
+        ],
+        "_id": "62df44054ff6e92eec195e5d",
+        "productName": "Jean",
+        "price": 2000,
+        "shortDescription": "Read more: https://shinyhoney.com/blog-outfits-classic-jeans.html",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still.\n          ",
+        "externalStoreName": "Txprex",
+        "website": "verticalglobaltech.com",
+        "productImage": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "watches",
+          "men",
+          "time",
+          "wrist watch",
+          "fashion"
+        ],
+        "_id": "62dd646513472710705b4d53",
+        "productName": "Ca WristWatch",
+        "price": 1000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://ukk.com",
+        "productImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "Oyin Mola",
+        "sellerEmail": "oy@gmail.com",
+        "sellerMobileNumber": "+234702222229",
+        "v": 0
+      },
+      {
+        "rating": 1,
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "_id": "62dd646513472710705b4d52",
+        "productName": "Red Puma Shoes",
+        "price": 8000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "Kunle Mumuney",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999",
+        "v": 0
+      }
+    ],
+    "name": "Tolulope Mumuney",
+    "email": "totxprex@gmail.com",
+    "mobileNumber": "+2348037184297",
+    "userName": "totxprex",
+    "password": "1234",
+    "v": 0
+  },
+  {
+    "userProducts": [
+      {
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "_id": {
+          "oid": "62dd63ac8df1832e38e1e393"
+        },
+        "productName": "Denim Shoes",
+        "price": 3000,
+        "rating": 4,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1560343090-f0409e92791a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+      },
+      {
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "_id": {
+          "oid": "62dd63ac8df1832e38e1e394"
+        },
+        "productName": "Red Puma Shoes",
+        "price": 8000,
+        "rating": 1,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      {
+        "productName": "Diamond Necklace",
+        "price": 2000,
+        "rating": 5,
+        "shortDescription": "Silver chain necklace with blue",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Kulex",
+        "website": "kx.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "kxprex",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999"
+      }
+    ],
+    "savedProducts": [
+      {
+        "rating": 1,
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "_id": "62dd646513472710705b4d52",
+        "productName": "Red Puma Shoes",
+        "price": 8000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "Kunle Mumuney",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "shoes",
+          "fashion",
+          "wears",
+          "men"
+        ],
+        "_id": "62dd646513472710705b4d50",
+        "productName": "Denim Shoes",
+        "price": 5000,
+        "shortDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "longDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "externalStoreName": "Deelbest Ventures",
+        "website": "http://deelbest.com",
+        "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+        "sellerName": "Tolulope Mumuney",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "_id": "62df1d01ecfca51cdce0caab",
+        "productName": "Sk Gown",
+        "price": 40000,
+        "shortDescription": "For an absolutely romantic and calm evenings!",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tkk.com",
+        "productImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "_id": "62df2ed94ff6e92eec195bab",
+        "productName": "Diamond Necklace",
+        "price": 2000,
+        "shortDescription": "Silver chain necklace with blue",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Kulex",
+        "website": "kx.com",
+        "productImage": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "kxprex",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999",
+        "v": 0
+      }
+    ],
+    "name": "Kunle Mumuney",
+    "email": "kxprex@gmail.com",
+    "mobileNumber": "+2347033519999",
+    "userName": "kxprex",
+    "password": "1234",
+    "v": 0
+  },
+  {
+    "name": "Oyin Mola",
+    "email": "oy@gmail.com",
+    "mobileNumber": "+234702222229",
+    "userName": "oyin",
+    "password": "1234",
+    "userProducts": [
+      {
+        "tags": [
+          "watches",
+          "men",
+          "time",
+          "wrist watch",
+          "fashion"
+        ],
+        "_id": {
+          "oid": "62dd63ac8df1832e38e1e396"
+        },
+        "productName": "Ca WristWatch",
+        "price": 1000,
+        "rating": 5,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://ukk.com",
+        "productImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+      },
+      {
+        "tags": [
+          "tech",
+          "music",
+          "headset",
+          "ear piece"
+        ],
+        "_id": {
+          "oid": "62dd63ac8df1832e38e1e397"
+        },
+        "productName": "Tecno Headset",
+        "price": 8000,
+        "rating": 3,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Oyin Ventures",
+        "website": "http://oy.com",
+        "productImage": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=384&q=80"
+      }
+    ],
+    "v": 0,
+    "savedProducts": []
+  },
+  {
+    "userProducts": [
+      {
+        "productName": "Crazy Wear",
+        "price": 2000,
+        "rating": 3,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "\n Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Juliette Ventures",
+        "website": "jullz.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      },
+      {
+        "productName": "Fs Wear",
+        "price": 2000,
+        "rating": 4,
+        "shortDescription": "I was invited to attend Milan Fashion week in a February of 2018",
+        "longDescription": "I was invited to attend Milan Fashion week in a February of 2018. It was my first time in Milan, and I was astounded at the amount of beautiful architecture it has around the city. I wanted to capture that but also tie in fashion along with it. As we were shooting, these birds started passing all over the place! It was magical! I give my model credit for standing so still. The shot was taken at the Duomo in Milan, Italy. Photo be me @alexiroseproductions model: @marwaatik",
+        "externalStoreName": "Juliette Ventures",
+        "website": "jullz.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      },
+      {
+        "productName": "Gemarn Wears",
+        "price": 2000,
+        "rating": 2,
+        "shortDescription": "Corfu is absolutely romantic and calm in the evenings",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Jullz Wears",
+        "website": "jullz.com",
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      },
+      {
+        "productName": "Mac PC",
+        "price": 20000,
+        "rating": 4,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tech Spot",
+        "website": "tech.com",
+        "tags": [
+          "tech",
+          "pc",
+          "apple",
+          "laptop"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      },
+      {
+        "productName": "Wallpaper",
+        "price": 10000,
+        "rating": 1,
+        "shortDescription": "Home Wallpaper",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Jullz Store",
+        "website": "jullz.com",
+        "tags": [
+          "wall",
+          "home",
+          "accesories",
+          "fashion"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1614339348877-f12765b1fda0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=390&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      },
+      {
+        "productName": "Random Prod",
+        "price": 200,
+        "rating": 1,
+        "shortDescription": "A random product for testing during development",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n          ",
+        "externalStoreName": "Random JS",
+        "website": "random.com",
+        "tags": [
+          "any",
+          "boys",
+          "men",
+          "fashion",
+          "tech"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568"
+      }
+    ],
+    "savedProducts": [
+      {
+        "rating": 2,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "id": "62df2daf4ff6e92eec195b7b",
+        "productName": "Gemarn Wears",
+        "price": 2000,
+        "shortDescription": "Corfu is absolutely romantic and calm in the evenings",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Jullz Wears",
+        "website": "jullz.com",
+        "productImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 4,
+        "tags": [
+          "tech",
+          "pc",
+          "apple",
+          "laptop"
+        ],
+        "id": "62df30274ff6e92eec195be3",
+        "productName": "Mac PC",
+        "price": 20000,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tech Spot",
+        "website": "tech.com",
+        "productImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "shoes",
+          "fashion",
+          "wears",
+          "men"
+        ],
+        "id": "62dd646513472710705b4d50",
+        "productName": "Denim Shoes",
+        "price": 5000,
+        "shortDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "longDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "externalStoreName": "Deelbest Ventures",
+        "website": "http://deelbest.com",
+        "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+        "sellerName": "Tolulope Mumuney",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 1,
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "id": "62dd646513472710705b4d52",
+        "productName": "Red Puma Shoes",
+        "price": 8000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "Kunle Mumuney",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "tech",
+          "music",
+          "headset",
+          "ear piece"
+        ],
+        "id": "62dd646513472710705b4d54",
+        "productName": "Tecno Headset",
+        "price": 8000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Oyin Ventures",
+        "website": "http://oy.com",
+        "productImage": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=384&q=80",
+        "sellerName": "Oyin Mola",
+        "sellerEmail": "oy@gmail.com",
+        "sellerMobileNumber": "+234702222229",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "id": "62df2b433ce78f149cc47420",
+        "productName": "Crazy Wear",
+        "price": 2000,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "\n Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Juliette Ventures",
+        "website": "jullz.com",
+        "productImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 1,
+        "tags": [
+          "wall",
+          "home",
+          "accesories",
+          "fashion"
+        ],
+        "id": "62e6611f626dfb1da086f807",
+        "productName": "Wallpaper",
+        "price": 10000,
+        "shortDescription": "Home Wallpaper",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Jullz Store",
+        "website": "jullz.com",
+        "productImage": "https://images.unsplash.com/photo-1614339348877-f12765b1fda0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=390&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "women",
+          "smell",
+          "aestetics",
+          "women"
+        ],
+        "id": "62dd646513472710705b4d56",
+        "productName": "Red Perfume",
+        "price": 5000,
+        "shortDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "longDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "externalStoreName": "Ju Ventures",
+        "website": "http://ju.com",
+        "productImage": "https://images.unsplash.com/photo-1608528577891-eb055944f2e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "sellerName": "Juliette Mumuney",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      }
+    ],
+    "name": "Juliette Nzekwe",
+    "email": "jullz@gmail.com",
+    "mobileNumber": "0902345568",
+    "userName": "jullz",
+    "password": "jullz",
+    "v": 0
+  },
+  {
+    "userProducts": [],
+    "name": "Eunice Dopamu",
+    "email": "eni@gmail.com",
+    "mobileNumber": "07069640111",
+    "userName": "eunice",
+    "password": "1234",
+    "v": 0,
+    "savedProducts": []
+  },
+  {
+    "userProducts": [],
+    "savedProducts": [
+      {
+        "rating": 4,
+        "tags": [
+          "tech",
+          "pc",
+          "apple",
+          "laptop"
+        ],
+        "id": "62df30274ff6e92eec195be3",
+        "productName": "Mac PC",
+        "price": 20000,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tech Spot",
+        "website": "tech.com",
+        "productImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "watches",
+          "men",
+          "time",
+          "wrist watch",
+          "fashion"
+        ],
+        "id": "62dd646513472710705b4d57",
+        "productName": "Crystal WristWatch",
+        "price": 10000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Ju Ventures",
+        "website": "http://jullz.com",
+        "productImage": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "Jullz Mola",
+        "sellerEmail": "jullz.com",
+        "sellerMobileNumber": "+234702222229",
+        "v": 0
+      }
+    ],
+    "name": "Kingsley Ekpe",
+    "email": "kin@gmail.com",
+    "mobileNumber": "0809999999",
+    "userName": "ekpe",
+    "password": "ekpe",
+    "v": 0
+  },
+  {
+    "userProducts": [
+      {
+        "productName": "Developer Skincare Collection",
+        "price": 3000,
+        "rating": 5,
+        "shortDescription": "Collection of must-have items! Ranging from Loewe solo to Loewe Aire",
+        "longDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. ",
+        "externalStoreName": "Tolulope Store",
+        "website": "https://t-pportfolio-exclusive.netlify.app/",
+        "tags": [
+          "men",
+          "skincare",
+          "beauty",
+          "pefume",
+          "fashion",
+          "women"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1658654507705-982892632e55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1530&q=80",
+        "sellerName": "developer",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297"
+      },
+      {
+        "productName": "White Table Lamp",
+        "price": 20000,
+        "rating": 4,
+        "shortDescription": "Beautiful table lamp for your beautiful home!",
+        "longDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. ",
+        "externalStoreName": "Tolulope Store",
+        "website": "https://t-portfolio-exclusive.netlify.app/",
+        "tags": [
+          "room",
+          "furniture",
+          "aesthetics",
+          "fashion",
+          "home",
+          "house"
+        ],
+        "productImage": "https://images.unsplash.com/photo-1455792244736-3ed96c3d7f7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "sellerName": "developer",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297"
+      }
+    ],
+    "savedProducts": [
+      {
+        "rating": 1,
+        "tags": [
+          "shoes",
+          "men shoes",
+          "men",
+          "fashion"
+        ],
+        "id": "62dd646513472710705b4d52",
+        "productName": "Red Puma Shoes",
+        "price": 8000,
+        "shortDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "longDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "externalStoreName": "Canda Ventures",
+        "website": "http://canada.com",
+        "productImage": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "Kunle Mumuney",
+        "sellerEmail": "kxprex@gmail.com",
+        "sellerMobileNumber": "+2347033519999",
+        "v": 0
+      },
+      {
+        "rating": 4,
+        "tags": [
+          "tech",
+          "pc",
+          "apple",
+          "laptop"
+        ],
+        "id": "62df30274ff6e92eec195be3",
+        "productName": "Mac PC",
+        "price": 20000,
+        "shortDescription": "Browse premium related images on iStock | Save 20% with code UNSPLASH20",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tech Spot",
+        "website": "tech.com",
+        "productImage": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      },
+      {
+        "rating": 4,
+        "tags": [
+          "women",
+          "fashion",
+          "wear",
+          "clothe",
+          "female",
+          "gown",
+          "beauty"
+        ],
+        "id": "62df1e21ecfca51cdce0cab7",
+        "productName": "Yellow Suit",
+        "price": 20000,
+        "shortDescription": "Photo shoot with Montana Yao at the Korean Friendship Bell for Girls Tour",
+        "longDescription": "Corfu is absolutely romantic and calm in the evenings, especially next to the sea. Few days ago me and my husband Pete had a chance to spend an hour in Corfu Town when sun was going down and day was slowly moving to its end. It was absolutely charming and beautiful. Read more: https://shinyhoney.com/blog-outfits-white-floral-maxi.html\n          ",
+        "externalStoreName": "Tk Ventures",
+        "website": "www.tk.com",
+        "productImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=420&q=80",
+        "sellerName": "totxprex",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 5,
+        "tags": [
+          "men",
+          "skincare",
+          "beauty",
+          "pefume",
+          "fashion",
+          "women"
+        ],
+        "id": "62dfe27005c5032f0c5ced3c",
+        "productName": "Developer Skincare Collection",
+        "price": 3000,
+        "shortDescription": "Collection of must-have items! Ranging from Loewe solo to Loewe Aire",
+        "longDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. ",
+        "externalStoreName": "Tolulope Store",
+        "website": "https://t-pportfolio-exclusive.netlify.app/",
+        "productImage": "https://images.unsplash.com/photo-1658654507705-982892632e55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1530&q=80",
+        "sellerName": "developer",
+        "sellerEmail": "totxprex@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 3,
+        "tags": [
+          "shoes",
+          "fashion",
+          "wears",
+          "men"
+        ],
+        "id": "62df189aae6dd814f04b4901",
+        "productName": "Test Product 888",
+        "price": 5000,
+        "shortDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "longDescription": "Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time. Avialable in blue and black, this denim watch will help you know the time.",
+        "externalStoreName": "TEST Ventures",
+        "website": "http://test.com",
+        "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+        "sellerName": "test test",
+        "sellerEmail": "test@gmail.com",
+        "sellerMobileNumber": "+2348037184297",
+        "v": 0
+      },
+      {
+        "rating": 1,
+        "tags": [
+          "any",
+          "boys",
+          "men",
+          "fashion",
+          "tech"
+        ],
+        "id": "62e69f52c13fbd2b60457554",
+        "productName": "Random Prod",
+        "price": 200,
+        "shortDescription": "A random product for testing during development",
+        "longDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n          ",
+        "externalStoreName": "Random JS",
+        "website": "random.com",
+        "productImage": "https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "sellerName": "jullz",
+        "sellerEmail": "jullz@gmail.com",
+        "sellerMobileNumber": "0902345568",
+        "v": 0
+      }
+    ],
+    "name": "developer",
+    "email": "totxprex@gmail.com",
+    "mobileNumber": "+2348037184297",
+    "userName": "developer",
+    "password": "developer",
+    "v": 0
+  }
+]
