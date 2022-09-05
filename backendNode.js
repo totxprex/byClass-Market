@@ -29,7 +29,7 @@ app.use(cors({
 app.use(express.json())
 
 let mongoose = require('mongoose')
-mongoose.connect("mongodb+srv://toxprex:ajmclean@cluster0.y6kxuhr.mongodb.net/byClass-App?retryWrites=true&w=majority", {
+mongoose.connect("", {
   useCreateIndex: true,
   useFindAndModify: false,
   useNewUrlParser: true,
